@@ -1,4 +1,40 @@
 
+<!-- CUSTOM COLOR OVERRIDES: DEEP BURGUNDY, RED & BLUE ACCENTS -->
+<style>
+  /* Changes the main header to a deep burgundy gradient */
+  .page-header {
+    background-image: linear-gradient(120deg, #4a0e17, #1a0003) !important;
+    background-color: #4a0e17 !important;
+  }
+  
+  /* Vibrant blue highlights for headings */
+  h1, h2, h3, h4 {
+    color: #2563eb !important; /* Vibrant Blue */
+  }
+  
+  /* Vibrant red/burgundy accents for links */
+  a {
+    color: #dc2626 !important; /* Vibrant Red */
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #b91c1c !important;
+  }
+  
+  /* Customizing the header buttons to match your theme */
+  .btn {
+    color: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
+    background-color: rgba(220, 38, 38, 0.2) !important; /* Subtle Red tint */
+  }
+  .btn:hover {
+    background-color: rgba(37, 99, 235, 0.3) !important; /* Vibrant Blue hover */
+    border-color: rgba(255, 255, 255, 0.5) !important;
+  }
+</style>
+
+
 # Hello, I'm a Computer Science Student at UWEC! 
 
 Welcome to my software development portfolio! I am currently a student at the **University of Wisconsin-Eau Claire**, diving deep into the fundamentals of computer science and modern programming workflows.
@@ -78,37 +114,3 @@ My goal is to build a rock-solid foundation in software engineering principles h
 </script>
 
 
-<!-- CUSTOM COLOR OVERRIDES: DEEP BURGUNDY, RED & BLUE ACCENTS -->
-<style>
-  /* Changes the main header to a deep burgundy gradient */
-  .page-header {
-    background-image: linear-gradient(120deg, #4a0e17, #1a0003) !important;
-    background-color: #4a0e17 !important;
-  }
-  
-  /* Vibrant blue highlights for headings */
-  h1, h2, h3, h4 {
-    color: #2563eb !important; /* Vibrant Blue */
-  }
-  
-  /* Vibrant red/burgundy accents for links */
-  a {
-    color: #dc2626 !important; /* Vibrant Red */
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-    color: #b91c1c !important;
-  }
-  
-  /* Customizing the header buttons to match your theme */
-  .btn {
-    color: rgba(255, 255, 255, 0.8) !important;
-    border-color: rgba(255, 255, 255, 0.3) !important;
-    background-color: rgba(220, 38, 38, 0.2) !important; /* Subtle Red tint */
-  }
-  .btn:hover {
-    background-color: rgba(37, 99, 235, 0.3) !important; /* Vibrant Blue hover */
-    border-color: rgba(255, 255, 255, 0.5) !important;
-  }
-</style>
