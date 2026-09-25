@@ -1,5 +1,5 @@
 
-<!-- CUSTOM COLOR OVERRIDES: DEEP BURGUNDY, RED & BLUE ACCENTS -->
+<!-- CUSTOM COLOR OVERRIDES: DEEP BURGUNDY, NAVY BLUE & RED ACCENTS -->
 <style>
   /* Changes the main header to a deep burgundy gradient */
   .page-header {
@@ -7,9 +7,9 @@
     background-color: #4a0e17 !important;
   }
   
-  /* Vibrant blue highlights for headings */
+  /* Deep Navy Blue highlights for headings */
   h1, h2, h3, h4 {
-    color: #2563eb !important; /* Vibrant Blue */
+    color: #1e3a8a !important; /* Deep Navy Blue */
   }
   
   /* Vibrant red/burgundy accents for links */
@@ -29,7 +29,7 @@
     background-color: rgba(220, 38, 38, 0.2) !important; /* Subtle Red tint */
   }
   .btn:hover {
-    background-color: rgba(37, 99, 235, 0.3) !important; /* Vibrant Blue hover */
+    background-color: rgba(30, 58, 138, 0.4) !important; /* Navy Blue hover */
     border-color: rgba(255, 255, 255, 0.5) !important;
   }
 </style>
